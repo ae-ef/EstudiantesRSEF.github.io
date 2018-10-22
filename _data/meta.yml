@@ -1,0 +1,8 @@
+- id: "/"
+  title: "EstudiantesRSEF - Grupo Especializado de Estudiantes de la Real Sociedad Española de Física"
+  description: "El Grupo Especializado de Estudiantes de la Real Sociedad Española de Física es una organización que busca reunir a todos los estudiantes de física de España. EstudiantesRSEF forma parte del Comité Nacional Español de la Asociación Internacional de Estudiantes de Física (IAPS)."
+  keywords: "rsef estudiantes física iaps"
+- id: "/eventi/"
+  title: "EstudiantesRSEF - Eventos"
+  description: "EstudiantesRSEF organiza eventos de carácter local, nacional e internacional para sus miembros, como conferencias, visitas a laboratorios o charlas de estudiantes, investigadores y profesores."
+  keywords: "rsef eventos conferencia icps plancks iaps"
