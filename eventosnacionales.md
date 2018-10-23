@@ -8,7 +8,7 @@ permalink: /eventosnacionales/
 ## Próximamente
 
 {% assign loopindex = 0 %}
-{% for event in site.events reversed%}
+{% for event in site.events reversed %}
   {% if event.date >= site.time and event.categories contains "eventolocale" %}
     {% assign rowfinder = loopindex | modulo:2 %}
       {% if rowfinder == 0 %}
@@ -70,7 +70,7 @@ permalink: /eventosnacionales/
 ## Eventos Pasados
 
 {% assign loopindex = 0 %}
-{% for event in site.events reversed%}
+{% for event in site.events reversed %}
   {% if loopindex < 3 and event.date < site.time and event.categories contains "eventolocale" %}
     {% assign rowfinder = loopindex | modulo:2 %}
       {% if rowfinder == 0 %}
@@ -137,7 +137,7 @@ permalink: /eventosnacionales/
             <div class="collapsible-body">
               <table class="centered striped">
                 <tbody>
-                  {% for event in site.events reversed%}
+                  {% for event in site.events reversed %}
                     {% if event.date < site.time and event.CL contains item.nome %}
                       <tr>
                         <td>
