@@ -6,8 +6,6 @@
     url: /juntadegobierno/
   - text: Delegaciones Universitarias
     url: /delegacionesuniversitarias/
-  - text: Secciones Locales
-    url: /seccioneslocales/
   - text: Documentos
     url: /documentos/
   - text: Eventos
@@ -19,13 +17,11 @@
       url: /eventosnacionales/
 - text: Blog
   url: /blog
-- text: SdR
-  url: /sistemidiriferimento/
-- text: Inscríbete!
-  url: /inscripcion/
 - text: IAPS
   url: /iaps/
-- text: RSEF
-  url: /rsef/
 - text: PLANCKS2019
   url: http://www.plancks-2019.sdu.dk/
+- text: RSEF
+  url: /rsef/
+- text: ¡Inscríbete!
+  url: /inscripcion/
