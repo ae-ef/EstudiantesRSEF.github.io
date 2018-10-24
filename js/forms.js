@@ -322,9 +322,9 @@
         // add icons
         var icon_url = option.data('icon');
         var classes = option.attr('class');
-        if (!!icon_url) {
+        if (icon_url) {
           var classString = '';
-          if (!!classes) classString = ' class="' + classes + '"';
+          if (classes) classString = ' class="' + classes + '"';
 
           // Check for multiple type.
           if (type === 'multiple') {
