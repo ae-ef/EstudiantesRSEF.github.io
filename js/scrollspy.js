@@ -156,7 +156,7 @@
 			}
 			return result;
 		};
-	};
+	}
 
 	/**
 	 * Enables ScrollSpy using a selector

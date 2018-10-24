@@ -7,7 +7,7 @@
  * https://github.com/fians/Waves/blob/master/LICENSE
  */
 
-;(function(window) {
+(function(window) {
     'use strict';
 
     var Waves = Waves || {};
