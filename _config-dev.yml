@@ -1,6 +1,6 @@
 # Site settings
-title: "JúniorRSEF - Grupo Especializado de Miembros Júnior de la Real Sociedad Española de Física."
-description: "JúniorRSEF es el grupo especializado de miembros júnior de la Real Sociedad Española de Física, cuyo objetivo es reunir a estudiantes de ciencias físicas de universidades españolas y conseguir una mayor participación del colectivo en las instituciones, tanto en el ámbito nacional como internacional, a través de actividades que complementen los currículos oficiales que fomenten la divulgación científica en la sociedad y promuevan la colaboración con agrupaciones del mismo ámbito de todo el mundo."
+title: "EstudiantesRSEF - Grupo Especializado de Estudiantes de la Real Sociedad Española de Física."
+description: "EstudiantesRSEF es el Grupo Especializado de Estudiantes de la Real Sociedad Española de Física, cuyo objetivo es reunir a estudiantes de ciencias físicas de universidades españolas y conseguir una mayor participación del colectivo en las instituciones, tanto en el ámbito nacional como internacional, a través de actividades que complementen los currículos oficiales que fomenten la divulgación científica en la sociedad y promuevan la colaboración con agrupaciones del mismo ámbito de todo el mundo."
 banner: img/banner.png
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
