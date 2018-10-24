@@ -56,7 +56,7 @@ textarea.materialize-textarea {
   width: 100%;
 
   font-size: 1rem;
-  margin: 0 0 15px 0;
+  margin: 0 0 15px;
   padding: 0;
   box-shadow: none;
   @include box-sizing(content-box);
@@ -482,7 +482,7 @@ form p:last-child {
     width: 20px;
     background-color: transparent;
     border: 2px solid $radio-empty-color;
-    top: 0px;
+    top: 0;
     z-index: 0;
   }
   // Checked style
@@ -503,7 +503,7 @@ form p:last-child {
       transform-origin: 100% 100%;
     }
     + label:after {
-      top: 0px;
+      top: 0;
       width: 20px;
       height: 20px;
       border: 2px solid $secondary-color;
@@ -629,7 +629,7 @@ input[type=checkbox]:not(:disabled) ~ .lever:active:after {
     line-height: 3rem;
     width: 100%;
     font-size: 1rem;
-    margin: 0 0 15px 0;
+    margin: 0 0 15px;
     padding: 0;
     display: block;
   }
@@ -734,7 +734,7 @@ input[type=range] {
   border: none;
   outline: none;
   width: 100%;
-  margin: 15px 0px;
+  margin: 15px 0;
   padding: 0;
 }
 input[type=range] + .thumb {
