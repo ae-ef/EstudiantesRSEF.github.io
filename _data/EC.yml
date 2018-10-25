@@ -20,7 +20,7 @@
       descr: "El secretario estudia un máster en física teórica en la universidad de Heidelberg. Su intención es hacer un PhD en el ámbito de la cosmología, que está ahora muy de moda al parecer. Le gusta mucho hablar y pensar, normalmente demasiado. Se motiva mucho con la música, le encanta cantar y tocar la guitarra, pero es medio sordo."
       mail: ""
   collaboratori:
-    - nome: "Álex Gallego"
+    - nome: "Alejandro Gallego Carro"
       img: ""
       ruolo: "Relaciones Públicas y Redes Sociales"
       descr: ""
@@ -35,11 +35,4 @@
       ruolo: ""
       descr: "Graduado en física por la UB, nacido en 1994 en Barcelona. Actualmente prosigue sus estudios de física cursando un máster en el campo de la física computacional, que compagina con un trabajo de programador en Visión e Inteligencia Artificiales. Es un gran aficionado del F.C. Barcelona y siempre está dispuesto a mantener una amigable charla sobre ¡fútbol!"
       mail: ""
-    - nome: "Inmaculada Pérez Pérez"
-      img: ""
-      descr: "Estudiante de Física en la Universidad de Sevilla."
-      mail: ""
-    - nome: "Guillermo Martín López"
-      img: ""
-      descr: "Estudiante de Física en la Universidad de Sevilla."
-      mail: ""
+
